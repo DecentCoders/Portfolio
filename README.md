@@ -9,14 +9,12 @@ This portfolio is built to highlight my work as a Frontend Developer, Full-Stack
 - Project showcase with descriptions, tech stacks, and live demos/github links
 - Skills section with proficiency indicators
 - About me / professional background
-- Contact form/links for easy outreach
-- Dark/light mode toggle (optional)
+//- Contact form/links for easy outreach
+// Dark/light mode toggle (optional)
 
 ## 🚀 Live Demo
 Check out the live version of the portfolio:  
-<a href="https://decentcoders.netlify.app/" target="_blank">
-https://decentcoders.netlify.app/
-</a>
+<a href="https://decentcoders.netlify.app/" target="_blank" rel="noopener noreferrer">Visit My Portfolio</a>
 ## 🛠️ Tech Stack
 | Category       | Technologies                                                                 |
 |----------------|------------------------------------------------------------------------------|
